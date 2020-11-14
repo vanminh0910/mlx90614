@@ -1,0 +1,5 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category id="mlx90614" name="MLX90614" colour="#f79532" icon="thermometer">
+    <block type="block_mlx90614_get_temp"/>
+  </category>
+</xml>
