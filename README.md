@@ -1,4 +1,4 @@
-# yolobit_robotshield
+# yolobit_mlx90614
 Yolo:Bit extension for MLX90614
 
 # Example code
